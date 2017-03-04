@@ -1,0 +1,299 @@
+Enter path of text file collection ::: /Users/HarshPatil/CS429/Assignment_2_Ranked_Retrieval/collection
+Enter the stop words file path ::: /Users/HarshPatil/CS429/Assignment_2_Ranked_Retrieval/stop-list.txt
+Enter path of query file ::: /Users/HarshPatil/CS429/Assignment_2_Ranked_Retrieval/queries
+Index built in ::: 1.6257290840148926 seconds
+Champion List built in ::: 0.2417912483215332 seconds
+Cluster built in ::: 0.9601359367370605 seconds
+
+Enter number of docs to be retrieved ::: 10
+
+Enter 1 for Exact Search
+Enter 2 to search using Champion List
+Enter 3 to search using Index Elimination
+Enter 4 to search using Cluster Pruning
+Enter 5 to print dictionary
+Enter 6 to print docId to file name map
+Enter Any other number to exit
+
+Enter your choice from above ::: 1
+
+Query Terms ::: ['tattered', 'affixed', 'faithful']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-17.txt
+Doc Returned ==> Text-3.txt
+Doc Returned ==> Text-27.txt
+Doc Returned ==> Text-234.txt
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-266.txt
+Doc Returned ==> Text-25.txt
+Doc Returned ==> Text-288.txt
+Doc Returned ==> Text-256.txt
+Doc Returned ==> Text-370.txt
+Retrieved in ::: 0.00022864341735839844 seconds
+
+Query Terms ::: ['party', 'leaders', 'party', 'party']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-386.txt
+Doc Returned ==> Text-276.txt
+Doc Returned ==> Text-210.txt
+Doc Returned ==> Text-15.txt
+Doc Returned ==> Text-217.txt
+Doc Returned ==> Text-26.txt
+Doc Returned ==> Text-225.txt
+Doc Returned ==> Text-409.txt
+Doc Returned ==> Text-371.txt
+Doc Returned ==> Text-183.txt
+Retrieved in ::: 0.0007970333099365234 seconds
+
+Query Terms ::: ['microcosm', 'nonalignment']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-369.txt
+Doc Returned ==> Text-420.txt
+Doc Returned ==> Text-322.txt
+Doc Returned ==> Text-328.txt
+Doc Returned ==> Text-371.txt
+Retrieved in ::: 0.00010991096496582031 seconds
+
+Query Terms ::: ['prince', 'thailand']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-421.txt
+Doc Returned ==> Text-406.txt
+Doc Returned ==> Text-405.txt
+Doc Returned ==> Text-221.txt
+Doc Returned ==> Text-396.txt
+Doc Returned ==> Text-185.txt
+Doc Returned ==> Text-232.txt
+Doc Returned ==> Text-384.txt
+Doc Returned ==> Text-226.txt
+Doc Returned ==> Text-308.txt
+Retrieved in ::: 0.0003190040588378906 seconds
+
+Query Terms ::: ['battled', 'soviet']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-416.txt
+Doc Returned ==> Text-294.txt
+Doc Returned ==> Text-276.txt
+Doc Returned ==> Text-187.txt
+Doc Returned ==> Text-310.txt
+Doc Returned ==> Text-8.txt
+Doc Returned ==> Text-60.txt
+Doc Returned ==> Text-95.txt
+Doc Returned ==> Text-216.txt
+Retrieved in ::: 0.0005481243133544922 seconds
+
+Enter 1 for Exact Search
+Enter 2 to search using Champion List
+Enter 3 to search using Index Elimination
+Enter 4 to search using Cluster Pruning
+Enter 5 to print dictionary
+Enter 6 to print docId to file name map
+Enter Any other number to exit
+
+Enter your choice from above ::: 2
+
+Query Terms ::: ['tattered', 'affixed', 'faithful']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-17.txt
+Doc Returned ==> Text-3.txt
+Doc Returned ==> Text-27.txt
+Doc Returned ==> Text-234.txt
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-266.txt
+Doc Returned ==> Text-25.txt
+Doc Returned ==> Text-288.txt
+Doc Returned ==> Text-256.txt
+Doc Returned ==> Text-370.txt
+Retrieved in ::: 0.00027298927307128906 seconds
+
+Query Terms ::: ['party', 'leaders', 'party', 'party']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-217.txt
+Doc Returned ==> Text-371.txt
+Doc Returned ==> Text-386.txt
+Doc Returned ==> Text-242.txt
+Doc Returned ==> Text-26.txt
+Doc Returned ==> Text-210.txt
+Doc Returned ==> Text-377.txt
+Doc Returned ==> Text-305.txt
+Doc Returned ==> Text-134.txt
+Doc Returned ==> Text-234.txt
+Retrieved in ::: 0.0003879070281982422 seconds
+
+Query Terms ::: ['microcosm', 'nonalignment']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-369.txt
+Doc Returned ==> Text-420.txt
+Doc Returned ==> Text-322.txt
+Doc Returned ==> Text-328.txt
+Doc Returned ==> Text-371.txt
+Retrieved in ::: 0.00015425682067871094 seconds
+
+Query Terms ::: ['prince', 'thailand']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-421.txt
+Doc Returned ==> Text-406.txt
+Doc Returned ==> Text-405.txt
+Doc Returned ==> Text-221.txt
+Doc Returned ==> Text-396.txt
+Doc Returned ==> Text-185.txt
+Doc Returned ==> Text-232.txt
+Doc Returned ==> Text-384.txt
+Doc Returned ==> Text-226.txt
+Doc Returned ==> Text-308.txt
+Retrieved in ::: 0.0003147125244140625 seconds
+
+Query Terms ::: ['battled', 'soviet']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-416.txt
+Doc Returned ==> Text-294.txt
+Doc Returned ==> Text-60.txt
+Doc Returned ==> Text-296.txt
+Doc Returned ==> Text-378.txt
+Doc Returned ==> Text-21.txt
+Doc Returned ==> Text-250.txt
+Doc Returned ==> Text-146.txt
+Doc Returned ==> Text-289.txt
+Retrieved in ::: 0.000308990478515625 seconds
+
+Enter 1 for Exact Search
+Enter 2 to search using Champion List
+Enter 3 to search using Index Elimination
+Enter 4 to search using Cluster Pruning
+Enter 5 to print dictionary
+Enter 6 to print docId to file name map
+Enter Any other number to exit
+
+Enter your choice from above ::: 3
+
+Query Terms ::: ['tattered', 'affixed', 'faithful']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-17.txt
+Doc Returned ==> Text-3.txt
+Doc Returned ==> Text-27.txt
+Doc Returned ==> Text-234.txt
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-266.txt
+Doc Returned ==> Text-25.txt
+Doc Returned ==> Text-288.txt
+Doc Returned ==> Text-256.txt
+Doc Returned ==> Text-370.txt
+Retrieved in ::: 0.0002970695495605469 seconds
+
+Query Terms ::: ['party', 'leaders', 'party', 'party']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-386.txt
+Doc Returned ==> Text-109.txt
+Doc Returned ==> Text-242.txt
+Doc Returned ==> Text-26.txt
+Doc Returned ==> Text-372.txt
+Doc Returned ==> Text-210.txt
+Doc Returned ==> Text-305.txt
+Doc Returned ==> Text-197.txt
+Doc Returned ==> Text-276.txt
+Doc Returned ==> Text-42.txt
+Retrieved in ::: 0.0005781650543212891 seconds
+
+Query Terms ::: ['microcosm', 'nonalignment']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-369.txt
+Retrieved in ::: 0.00010013580322265625 seconds
+
+Query Terms ::: ['prince', 'thailand']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-421.txt
+Doc Returned ==> Text-406.txt
+Doc Returned ==> Text-405.txt
+Doc Returned ==> Text-221.txt
+Doc Returned ==> Text-396.txt
+Doc Returned ==> Text-185.txt
+Doc Returned ==> Text-308.txt
+Doc Returned ==> Text-155.txt
+Doc Returned ==> Text-382.txt
+Doc Returned ==> Text-370.txt
+Retrieved in ::: 0.00024509429931640625 seconds
+
+Query Terms ::: ['battled', 'soviet']
+Top 10 Ranked Documents :::
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-416.txt
+Doc Returned ==> Text-294.txt
+Retrieved in ::: 0.0001220703125 seconds
+
+Enter 1 for Exact Search
+Enter 2 to search using Champion List
+Enter 3 to search using Index Elimination
+Enter 4 to search using Cluster Pruning
+Enter 5 to print dictionary
+Enter 6 to print docId to file name map
+Enter Any other number to exit
+
+Enter your choice from above ::: 4
+
+Query Terms ::: ['tattered', 'affixed', 'faithful']
+Top 10  Ranked Documents :::
+Doc Returned ==> Text-17.txt
+Doc Returned ==> Text-234.txt
+Doc Returned ==> Text-288.txt
+Doc Returned ==> Text-256.txt
+Doc Returned ==> Text-370.txt
+Doc Returned ==> Text-284.txt
+Doc Returned ==> Text-324.txt
+Retrieved in ::: 0.0002741813659667969 seconds
+
+Query Terms ::: ['party', 'leaders', 'party', 'party']
+Top 10  Ranked Documents :::
+Doc Returned ==> Text-371.txt
+Doc Returned ==> Text-183.txt
+Doc Returned ==> Text-6.txt
+Doc Returned ==> Text-255.txt
+Doc Returned ==> Text-190.txt
+Doc Returned ==> Text-2.txt
+Doc Returned ==> Text-74.txt
+Doc Returned ==> Text-258.txt
+Doc Returned ==> Text-186.txt
+Doc Returned ==> Text-147.txt
+Retrieved in ::: 0.0002751350402832031 seconds
+
+Query Terms ::: ['microcosm', 'nonalignment']
+Top 10  Ranked Documents :::
+Retrieved in ::: 4.76837158203125e-05 seconds
+
+Query Terms ::: ['prince', 'thailand']
+Top 10  Ranked Documents :::
+Doc Returned ==> Text-406.txt
+Doc Returned ==> Text-405.txt
+Doc Returned ==> Text-221.txt
+Doc Returned ==> Text-396.txt
+Doc Returned ==> Text-185.txt
+Doc Returned ==> Text-384.txt
+Doc Returned ==> Text-308.txt
+Doc Returned ==> Text-239.txt
+Doc Returned ==> Text-153.txt
+Doc Returned ==> Text-87.txt
+Retrieved in ::: 0.0003619194030761719 seconds
+
+Query Terms ::: ['battled', 'soviet']
+Top 10  Ranked Documents :::
+Doc Returned ==> Text-365.txt
+Doc Returned ==> Text-95.txt
+Doc Returned ==> Text-216.txt
+Doc Returned ==> Text-296.txt
+Doc Returned ==> Text-15.txt
+Doc Returned ==> Text-353.txt
+Doc Returned ==> Text-145.txt
+Doc Returned ==> Text-111.txt
+Doc Returned ==> Text-385.txt
+Doc Returned ==> Text-161.txt
+Retrieved in ::: 0.0002529621124267578 seconds
+
+Enter 1 for Exact Search
+Enter 2 to search using Champion List
+Enter 3 to search using Index Elimination
+Enter 4 to search using Cluster Pruning
+Enter 5 to print dictionary
+Enter 6 to print docId to file name map
+Enter Any other number to exit
+
+Enter your choice from above ::: 0
